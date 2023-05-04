@@ -1,0 +1,3 @@
+﻿  转.cpp
+E:\vs\demo\转\转\转.cpp(40,47): warning C4333: “>>”: 右移位数过大，数据将丢失
+  转.vcxproj -> E:\vs\demo\转\Debug\转.exe
